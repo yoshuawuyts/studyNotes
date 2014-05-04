@@ -113,3 +113,300 @@ __Ninth Lecture__
 
 __Tenth Lecture__
 - Paul Ricoeur, ‘De ruimte van de verbeelding vergroten’ (Ger Groot in gesprek met Paul Ricoeur), in: Ger Groot, Twee zielen, Nijmegen: SUN, pp. 217-227.
+
+## April 2nd, 2014 Lecture
+
+### What is philosphy?
+
+- Plato / Aristotales
+  - "Philosophy is the radicalisation of wonder"
+  - From comfort -> realization that not everything is obvious.
+  - Methodical ordening of experience.
+
+- Kant
+  - "Philosophy as a critical posture."
+  - Motto: _sapere aude_ - dare to think.
+  - Difference between 'wisdom' and 'knowledge'
+
+- Wittgenstein
+  - "Philosophy is a battle against the incantation of our mind through the means of language."
+  - Caught in language games and concepts?
+  - Revealing hidden assumptions.
+
+- Similarities between the different definitions
+  - Question what seems obvious.
+  - Especially when a model or vision reveals boundries.
+  - Look at the framework
+  - Result: knowledge & understanding gained through reason.
+
+### Philosophy and other domains of knowledge
+
+- who does philosophy? Not only philosophers
+  - it's about asking the right type of questions. The so called difference between domain specific scientific knowledge and philosophical questions.
+  - Philosophical questions, question the framework of the domain.
+
+- How to answer these questions?
+  - By naming the different assumptions, charting the knowledge base, clear analytics, making larger connections, seeing different perspectives
+    - Hard to find the most obvious things.
+    - Once described it's even harder to doubt them.
+
+- Critical thinking about the theoretical framework
+  - Some questions that could occur:
+    - The viability of the theoretical framework
+    - The assumptions of this framework
+    - The cohesion of the theoretical framework
+
+### What is philosophy & the contents of this course.
+
+- (..) it's about how western philosophers point out the obvious and question it.
+  - Historical overview of psychology and the people < 1850
+  - Modern vision of man, > 1850
+  - Philosophy of science & psychology
+  - Philosophical dimensions of psychological discussions
+
+- The discussed philosophers can be placed in three chronological categories
+  - Old times & 'midages': true realities in stable, universal and knowledgable principles
+  - Modern times: the truth is within the thinking of mankind
+  - Present: truth? It depends on the perspective and is largely decided by non controllable forces.
+
+- Old times & midages
+  - Most important philosophers
+    - "A true, intelligable order"
+    - Socrates
+    - Plato
+    - Aristotales
+  - Most important philosophers
+    - "An absolute, supernatural order"
+    - Augustinus
+    - Thomas of Aquino
+
+- Modern times
+  - "Truth can be found within the human mind"
+  - Subject is the center of attention
+  - Most important philosophers
+    - "The change to the subject"
+      - Descartes
+      - Hume
+      - Kant
+
+- Present times
+  - "Decentralization of the subject, man is guided by uncontrollable forces"
+  - Most important philosophers
+    - Husserl & Merleau-Ponty: Phyisique
+    - Sartre & Foucault: Freedom
+    - Wittgenstein & Taylor: Individuality
+    - Freud & Lacan: Autonomy
+    - Ricoeur: Responsability
+
+- Scientific philosophical questions
+  - Philosophy of science
+    - is about understanding and explaining psychology
+  - Philosophical dimensions of psychological discussions
+    - "Creation and development of identity"
+    - Identity & reputation
+    - Automony, is it an illusion?
+    - Identity & free will
+    - Development & authority
+
+### Philosophy and psychology: identity
+- How to design your own life / the life of others?
+
+- In what way should we teach and nurture?
+
+- How do our mental images and behavior determine our identity?
+
+- From philosophy there are other questions about identity
+  - Questions:
+    - How can you choose your own identity?
+    - How does your identity relate to your body?
+    - Is your identity knowledgable through reason?
+  - These answers are dependant on:
+    - culture
+    - nurture
+    - philosophies
+    - etc.
+    - e.g. the framework of knowledge you take for granted.
+
+- Identity and continuity
+  - Do material objects and persons remain the same through time?
+    - The ship of Theseus
+      - The ship of Theseus, also known as Theseus' paradox, is a thought experiment that raises the question of whether an object which has had all its components replaced remains fundamentally the same object.
+  - Midas Dekkers
+    - "Puberty as a methamorphosis"
+      - Does that offer continuity?
+      - On the other hand continuity is something that is within us that remains the same through time.
+  - What remains the same?
+    - Memory theory
+      - The memory theory of personal identity states that any experience an individual remembers being aware of must belong to that individual. So, if you remember doing something in the past, then that memory must belong to you and be a part of what makes you the person you are (ie, your personal identity). 
+    - Narrative identity
+      - The theory of narrative identity postulates that individuals form an identity by integrating their life experiences into an internalized, evolving story of the self, which provides the individual with a sense of unity and purpose in life.
+    - Visual properties
+
+- The essence of identity
+  - "About the last, possible answer"
+  - Hannah Arendt: the human condition (1958)
+  - There are 3 human conditions that put the earthly life in humans:
+    - Man is a product of nature
+    - Man forges a cultural world, a home.
+    - Man lives surrounded by other men and has to depend on them.
+      - You express yourself with deeds and words
+      - Only in that way can you express your individuality
+  - Arendt separates the 'who' and the 'what' of a person
+    - The 'what' is about characteristics, talents e.d. that you share with others.
+    - The 'who' is the living essence of a person and only expresses itself when with other people.
+  - A person cannot be pinned down on the 'what'
+
+- Summary:
+  - Our intuition says there is something constant through time.
+  - If so, what is the constant through time?
+  - Maybe a sum of properties that expresses someone's personality?
+  - Hannah Arendt: no, that will never express the uniqueness of a person.
+  - We can only know it through the actions within a story.
+  - Option of narrative identity.
+
+- Evolution of Arendt's solution:
+  - Does someone's story change through time?
+  - Isn't that story dependent on time?
+  - Are stories not the result of objectivation, distantiating yourself?
+
+### Summary
+- Through the philosophical perspective assumptions of identity are remarked:
+  - Does such a perspective also provide answers?
+  - Is such an analysis useful?
+- Thesis: In relation to other sciences philosophy should:
+  - Shine light on the background of problems.
+  - Create frameworks from which problems can be discussed.
+
+## April 9th, 2014 Lecture
+
+- 1. The start of philosophy
+- 2. Socrates
+- 3. Socrates & Plato
+- 4. Plato & the Sophists
+- 5. Plato's knowledge theory & the grotto myth
+- 6. Plato's idea theory: the rememberance of the soul
+
+### 1. The start of philosophy
+
+- 1.1 From myth to logos
+  - 'mythos': symbolical stories about gods and heroes
+  - 'logos': rational explanations
+  - 'mythology': myths in philosophy
+  - 'theoria': new! 'distantiated perception and decription of reality, loose from practical applications'
+
+- 1.2 The Milasians
+  - Rich naval force in ~600 BC
+  - The first 'physici' could be found here, thinkers that could reason back to simple unpersonal principles.
+  - Thales: 'Water is the origin of all things'.
+  - Anaximander: 'Everything originates from the undefined'.
+  - Anaximenes: 'Air is the main origin'.
+  - They'd be the first philosophers because
+    - Trust on reason
+    - Look for natural causes of things
+    - Abstract the concrete reality
+
+- 1.3 Pythagoras
+  - Doesn't look for a physical principle, but for a 'principle law' derived from numbers.
+  - The first to call himself 'philosophus'.
+  - Added 'keep on asking and don't take simple answers for an answer'
+
+### 2. Socrates
+
+- Born in 470 BC
+- Intense search for the truth & correct way of life.
+- Who thinks the search ends with an answer can receive sharp ciriticism
+- Socrates in a nutshell:
+  - both ambivalent as brilliant
+  - Everything he said alltogether is... inconsistent?
+  - Asks a lot, but does he say something?
+  - The beginning of all wisdom is knowing nothing.
+  - Speaks of a daimonion: an inner voice who acts as a guide.
+  - Enormoous influence because of his personality and own method.
+- Method of inquiry
+  - Talk and be uncomfortable.
+
+- 2.1 Socrates and the start of philosophy
+  - All questions can be summarized in a 'knowledge question' and a 'meaning question'.
+  - Maybe Socrates can be seen as the first philospher because:
+    - he's the first to show that the obvious question should be answered first.
+    - the truth is the most important good
+
+- 2.2 The Socratic conversation
+  - derp, done a million times
+
+### 3. Socrates & Plato
+
+- Plato 400 BC
+  - Plato & Socrates 
+  - Are the words of Socrates actually those of Socrates?
+
+- 3.2 Characteristics of the dialogue
+  - Truth > winning
+  - Truth through dialogue
+  - Dialogues show Plato
+    - As a great metaphisician
+    - As one of the greatest humorists of philosophy
+
+### 4. Plato & the Sophists
+
+- Sophists were masters in rhetorics.
+- Corax & Tisias were Sophist prototypes.
+- Protagoras: 'Man is the measure of all things'.
+- Gorgias: 'The word is a mighty ruler', everything is open to interpretation. Nihilism. Downer boy.
+
+- Plato about Gorgias:
+  - Rhetorics can be used untruthfully in practice and can teach people untruthy things
+  - Gorgias:
+    - Opinion as the highest form of knowledge
+    - Goal: being right
+  Socrates
+    - Knowing as the highest goal
+    - Goal: finding truth
+  Plato
+    - Philosophy is about true knowledge
+    - Not about false opinions / directions
+
+- Plato's ambivalence against the Sophists
+  - Socrates / Plato: a rhetorical plea doesn't provide any insight, but only pushes an untruthy opinion.
+  - Understandable, but Socrates was amazing in rhetorics.
+  - Plato's own literairy works display the contrary.
+
+### 5. Plato's knowledge theory & the grotto myth
+
+- Plato is looking for true knowledge and develops the 'knowledge theory'. Why is that?
+  - Protest against Sophists: 'being right' isn't the highest level of knowledge.
+  - Plato thinks that morality is vulnerable
+    - Based off opinions.
+    - Sometimes true, but unfunded.
+  - Moral education should be based off _true knowledge_.
+
+- Influences of Plato's knowledge theory
+  - Heraclitus: everything changes and temporary.
+  - Cratylus: 'no true knowledge is possible because of the constant change'.
+  - Parmenides: the sensory perceivable truth is indeed every changing. The real truth is however unchangable.
+  - Parmenides & zeno (runner & the hare)
+
+- Plato's theory of knowledge
+  - Four ways to know things, ordened  in two domains
+  - Domain of the visible: domain of things we think are true, the changable perception.
+    - Images
+    - Concrete apparations
+  - Domain of the knowable: the domain of seeing something is true. The domain of stable, abstract things.
+    - Object of the reasoning in thinking: concrete things
+    - Thinking of the things, related to the highest principle
+
+### 6. Plato's idea theory: the rememberance of the soul
+
+- About the 'ideas' (Solomon & Higgins: 'shapes')
+  - Perceivable things are shadows of ideas
+  - Ideas are principles to orden the physical world
+  - Ideas as rational aspects of the world
+  - Ideas surpass the knowing and the known subject
+  - People can be born with ideas
+  - "Real knowledge is rembembering".
+
+- The socratic conversation about remembering
+  - The knowledge that's gained was already available
+  - Socrates as a midwife
+
+- The body is the dungeon of the soul: without binding itself to the body it would enter the idea world directly.
