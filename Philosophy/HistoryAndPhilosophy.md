@@ -410,3 +410,108 @@ __Tenth Lecture__
   - Socrates as a midwife
 
 - The body is the dungeon of the soul: without binding itself to the body it would enter the idea world directly.
+
+## April 16th, 2014 Lecture
+
+### 1. Aristotales (and Plato)
+
+- Most brilliant student of Plato.
+- What is the subject of knowledge?
+  - Aristotales works empirically, but isn't experimental and doesn't quantify.
+- The observation doesn't yield 'true, unchangable knowldge', but solely 'experience knowledge' of concrete things (substances and accidents).
+- Accidents are 'accidental' properties of things.
+- Substances are fundamental particles of truth. The bearers of seperate things.
+
+- Substance: the complete form (the essance of substance) and the matter (the material from which substance is forged).
+- Form: the universal a universal concept of what it means to be 'knife' or 'human'.
+- !! Rembember that the essence of substance cannot exist on its own. It's always coupled to matter in our understanding.
+
+- Real knowledge isn't about _individual_ substances, but about the form: the _universal_ being.
+- Knowledge can be gained through abstraction:
+  - _de-materialization_: removing the substance from matter.
+  - _de-individualization_: removing the substance from any accidental properties in your mind.
+  - result: unchangable knowledge of the usage of substances.
+  - Men are both body (matter) and soul (form).
+  - Goal: fill the rational soul.
+
+### 2. Aristotales and the true center
+
+- Virtuousity isn't the contrary of 'naughty' behavior with Aristotales. Isn't associated with 'obedience' or 'being civil'.
+- Virtues with Aristotales: "The character that enables us to make smart choices that are located in the center".
+- Can be obtained through practice and nurture.
+
+- Forming of the character in two steps
+  - Evading extremeties
+    - In every virtue there are four 'kardinal virtues'   required. Courage, constraint, justice and wisdom.
+  - Imitation of correct behavior.
+  - still a role for 'morally shaped wisdom' _phronesis_. Practical wisdom, prudence.
+
+- Phronesis as a way of reasoning
+  -  a unique case is at its center
+  - no logical deducation, but a result of considerations
+  - an ethical deimension
+  - compromise between rules of thumb and a unique situation.
+  - An example of this is the unmoved mover.
+
+### 3. Aristotales and the tragedy
+
+- Plato and Aristotales about poetry:
+  - Aristotales said it gives joy, depicts the common, katharsis.
+  - Poetica is about the tragedy: 'an exhibition of gestures and feelings'. What happens to them can happen to us too.
+- What effect is _katharsis_ about?
+  - Experiencing the fear and compassion makes for 'intellectually and ethical purification of emotions. That is what creates a forming effect.
+- Summary: creating character in more than two steps
+  - evade extremeties
+  - imitaion of examples of appropriate behavior
+  - katharsis
+  - and a role for phronesis.
+
+### 4. The early Middle Ages: Augustine
+
+_"Give me virtue and measure, but not yet!"_
+_"Only with God can our thirst for happiness be soothed."_
+
+- God is the origin of all true knowledge
+  - models: _exemplaria_ of everything that exists is the spirit of God.
+  - No memory, but illumination. We've seen the true light for which our mind is opened.
+  - The divine light, not the human reason, enables us to see the truth.
+  - I know what time is, but if someone asks me to explain it I cannot.
+
+- Analysis of Augustine in three steps:
+  - What problems does the question spawn?
+  - What do the great thinkers say?
+  - Filosofical analyisis.
+
+- Augustine and the discovery of the will.
+  - Aristotales: man searches for reason and judgement.
+  - Greeks: 'correct views' -> 'correct behavior'
+  - Augustine: where does evil arise from?
+  - Augustine discovers the will of a third power, amongst reason and lust. The will is in itself split, the will fights itself -> lust.
+  - Virtues are the good qualities of life, where none uses it for evil.
+
+- Scholatics in broad sense
+  - clarification of belief through rationale
+  - ordening of belief truths
+  - destroy criciticism
+
+### 5. The late Middle Ages: Thomas of Aquino
+
+- antique ages: classical civilization
+- Mid Ages: time of intellectual standstill
+- Time of Petrarca: rebirth of the classical civilization
+
+- The late midages and christian world
+  - Modern thinking 12th century.
+  - Pinnacle: rediscovery of Aristotales
+  - Confrontation between Aristotales and the Christian theology.
+  - Church reacted repressive and adjusted later on.
+  - Thomas of Aquino: "Philosophical truths cannot be in conflict with belief, both originate from God."
+  - ToAquino: natural principles don't lead to adequate knowledge of God.
+
+- Moral ethics of Thomas: 
+  - Intellectual morals and virtues
+    - Focused on the man of a citizen of the world.
+    - Reason flourishes through nurture.
+  - Theologal virtues
+    - man as a citizen of the heavenly Jerusalem.
+    - God-given virtues of hope, joy and love.
